@@ -18,4 +18,22 @@ const cmsSelect = document.querySelector('.hidden-cms-variants');
 const cmsSelectItems = cmsSelect.querySelector('#cms-select');
 const cmsInputItmes = cmsSelect.querySelector('.main-controls__input');
 
-сool comit
+let screens = documen.querySelectorAll('.screen');
+
+const appData = {
+    title:'',
+    screens: [],
+    screenPrice:0,
+    rollback: 0,
+    servicePrincesPercent:0,
+    servicePrincesNumber:0,
+    fullPrice: 0,
+    servicePercentPrice:0,
+    servicesPercent:{},
+    servicesNumber:{},
+    isEmpty:false,
+    cms:1,
+
+
+
+}
