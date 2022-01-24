@@ -18,4 +18,4 @@ const cmsSelect = document.querySelector('.hidden-cms-variants');
 const cmsSelectItems = cmsSelect.querySelector('#cms-select');
 const cmsInputItmes = cmsSelect.querySelector('.main-controls__input');
 
-dsds
+сool comit
